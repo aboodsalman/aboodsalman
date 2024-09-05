@@ -1,6 +1,6 @@
 ![logo](https://github.com/aboodsalman/aboodsalman/blob/main/an-introduction-to-low-level-programming.jpg)
 <h1 align="center">Hi 👋, I'm Abdulrahman Salman</h1>
-<h3 align="center">A 2nd year computer science student from Palestine</h3>
+<h3 align="center">A 3rd year computer science student from Palestine</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboodsalman&label=Profile%20views&color=0e75b6&style=flat" alt="aboodsalman" /> </p>
 
