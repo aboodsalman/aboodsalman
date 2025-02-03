@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=aboodsalman&label=Profile%20views&color=0e75b6&style=flat" alt="aboodsalman" /> 
 </p>
 
-- 🌱 I’m currently practicing for problem solving **and learning more about OOP using Java 🙌**  
+- 🌱 I’m currently practicing for problem solving **and learning more about AI and ML algorithms 🙌**  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/aboodsalman?tab=repositories)  
 - 📫 How to reach me **aboodsal04@gmail.com**  
 
